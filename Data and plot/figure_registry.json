@@ -1,0 +1,381 @@
+{
+  "Figure1b": {
+    "figure_id": "Fig_landscape_bandit",
+    "figure_path": "Figures_Main/Fig_landscape_bandit",
+    "script_id": "Fig_landscape_bandit",
+    "script_path": "Scripts/MATLAB/Fig_landscape_bandit/make_plot.m",
+    "data_keys": [
+      "bandit_insilico_global",
+      "bandit_insilico_local"
+    ],
+    "data_path": [
+      "Data/bandit_global.csv",
+      "Data/bandit_local.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure2d": {
+    "figure_id": "Fig_LSV_pretrain",
+    "figure_path": "Figures_Main/Fig_LSV_pretrain",
+    "script_id": "Fig_LSV_pretrain",
+    "script_path": "Scripts/Python/Fig_LSV_pretrain/make_plot.py",
+    "data_keys": "All data",
+    "data_path": "Data/All data",
+    "figure_type": "Main"
+  },
+  "Figure2e": {
+    "figure_id": "Fig_surface_redox",
+    "figure_path": "Figures_Main/Fig_surface_redox",
+    "script_id": "Fig_surface_redox",
+    "script_path": "Scripts/Python/Fig_surface_redox/make_plot.py",
+    "data_keys": "All data",
+    "data_path": "Data/All data",
+    "figure_type": "Main"
+  },
+  "Figure2f": {
+    "figure_id": "Fig_ECSA",
+    "figure_path": "Figures_Main/Fig_ECSA",
+    "script_id": "Fig_ECSA",
+    "script_path": "Scripts/Python/ECSA_Processing/make_plot.py",
+    "data_keys": [
+      "All data",
+      "result_all_campaign",
+      "Capacitance_all"
+    ],
+    "data_path": [
+      "Data/All data",
+      "Data/result_all_campaign.csv",
+      "Data/Pseudo_Capacitance_fw_full.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure2g": {
+    "figure_id": "Fig_Tafel",
+    "figure_path": "Figures_Main/Fig_Tafel",
+    "script_id": "Fig_Tafel",
+    "script_path": "Scripts/Python/Tafel_Processing/make_plot.py",
+    "data_keys": [
+      "All data"
+    ],
+    "data_path": [
+      "Data/All data"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure2h": {
+    "figure_id": "Fig_landscape_pretrain",
+    "figure_path": "Figures_Main/Fig_landscape_pretrain",
+    "script_id": "Fig_landscape_pretrain",
+    "script_path": "Scripts/MATLAB/Fig_landscape_pretrain/make_plot.m",
+    "data_keys": [
+      "result_all_campaign"
+    ],
+    "data_path": [
+      "Data/result_all_campaign.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure3b": {
+    "figure_id": "Fig_model_comp",
+    "figure_path": "Figures_Main/Fig_model_comp",
+    "script_id": "Fig_model_comp",
+    "script_path": "Scripts/Python/Fig_model_comp/make_plot.py",
+    "data_keys": "result_pretrain",
+    "data_path": "Data/result_pretrain.csv",
+    "figure_type": "Main"
+  },
+  "Figure3c": {
+    "figure_id": "Fig_ovp_cdl_pretrain",
+    "figure_path": "Figures_Main/Fig_ovp_cdl_pretrained",
+    "script_id": "Fig_ovp_cdl_pretrain",
+    "script_path": "Scripts/MATLAB/Fig_ovp_cdl_pretrain/make_plot.m",
+    "data_keys": [
+      "Pretrain_Ovp_Cdl"
+    ],
+    "data_path": [
+      "Data/Merged_ovp_cdl_pretrain.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure3d-g": {
+    "figure_id": "Fig_landscape_trajectory",
+    "figure_path": "Figures_Main/Fig_landscape_trajectory",
+    "script_id": "Fig_landscape_trajectory",
+    "script_path": "Scripts/MATLAB/Fig_lanscape_trajectory/make_plot.m",
+    "data_keys": [
+      "result_all_campaign"
+    ],
+    "data_path": [
+      "Data/result_all_campaign.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure3h": {
+    "figure_id": "Fig_Ovp_trajectory",
+    "figure_path": "Figures_Main/Fig_Ovp_trajectory",
+    "script_id": "Fig_Ovp_trajectory",
+    "script_path": "Scripts/Python/Fig_Ovp_trajectory/make_plot.py",
+    "data_keys": "All_Ovp_Cdl",
+    "data_path": "Data/Merged_ovp_cdl_full.csv",
+    "figure_type": "Main"
+  },
+  "Figure3j": {
+    "figure_id": "Fig_alg_efficiency",
+    "figure_path": "Figures_Main/Fig_alg_efficiency",
+    "script_id": "Fig_alg_efficiency",
+    "script_path": "Scripts/Python/Fig_alg_efficiency/make_plot.py",
+    "data_keys": [
+      "Campaign1",
+      "Campaign2",
+      "Campaign3",
+      "Campaign4",
+      "result_pretrain"
+    ],
+    "data_path": [
+      "Data/Campaign1.csv",
+      "Data/Campaign2.csv",
+      "Data/Campaign3.csv",
+      "Data/Campaign4.csv",
+      "Data/result_pretrain.csv"
+    ],
+    "figure_type": "Main"
+  },
+  "Figure3k": [
+    {
+      "figure_id": "Fig_EDAX Radar plot_noO",
+      "figure_path": "Figures_Main/Fig_EDAX Radar plot_noO",
+      "script_id": "Fig_EDAX Radar plot_noO",
+      "script_path": "Scripts/Python/Fig_Radar_EDAX/make_plot.py",
+      "data_keys": "In script",
+      "data_path": "In script",
+      "figure_type": "Main"
+    },
+    {
+      "figure_id": "Fig_Recipe Radar plot",
+      "figure_path": "Figures_Main/Fig_Recipe Radar plot",
+      "script_id": "Fig_Recipe Radar plot",
+      "script_path": "Scripts/Python/Fig_Radar_recipe/make_plot.py",
+      "data_keys": "result_forRadar",
+      "data_path": "Data/result_forRadar.csv",
+      "figure_type": "Main"
+    }
+  ],
+  "Figure4b": {
+    "figure_id": "Fig_hessian_present_campaign1",
+    "figure_path": "Figures_Main/Fig_hessian_present_campaign1",
+    "script_id": "Fig_hessian_present_campaign1",
+    "script_path": "Scripts/Python/Fig_hessian_present_campaign1/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "Main"
+  },
+  "Figure4c": {
+    "figure_id": "Fig_hessian_present_campaign3",
+    "figure_path": "Figures_Main/Fig_hessian_present_campaign3",
+    "script_id": "Fig_hessian_present_campaign3",
+    "script_path": "Scripts/Python/Fig_hessian_present_campaign3/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "Main"
+  },
+  "Figure4d": {
+    "figure_id": "Fig_interaction_rank_campaign1",
+    "figure_path": "Figures_Main/Fig_interaction_rank_campaign1",
+    "script_id": "Fig_interaction_rank_campaign1",
+    "script_path": "Scripts/Python/Fig_interaction_rank_campaign1/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "Main"
+  },
+  "Figure4e": {
+    "figure_id": "Fig_interaction_rank_campaign3",
+    "figure_path": "Figures_Main/Fig_interaction_rank_campaign3",
+    "script_id": "Fig_interaction_rank_campaign3",
+    "script_path": "Scripts/Python/Fig_interaction_rank_campaign3/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "Main"
+  },
+  "Figure4f": {
+    "figure_id": "Fig_volcano_rebuild_campaign1",
+    "figure_path": "Figures_Main/Fig_volcano_rebuild_campaign1",
+    "script_id": "Fig_volcano_rebuild_campaign1",
+    "script_path": "Scripts/Python/Fig_volcano_rebuild_campaign1/make_plot.py",
+    "data_keys": "Campaign1",
+    "data_path": "Data/Campaign1.csv",
+    "figure_type": "Main"
+  },
+  "Figure4g": {
+    "figure_id": "Fig_volcano_rebuild_campaign3",
+    "figure_path": "Figures_Main/Fig_volcano_rebuild_campaign3",
+    "script_id": "Fig_volcano_rebuild_campaign3",
+    "script_path": "Scripts/Python/Fig_volcano_rebuild_campaign3/make_plot.py",
+    "data_keys": "Campaign3",
+    "data_path": "Data/Campaign3.csv",
+    "figure_type": "Main"
+  },
+  "FigureS9": {
+    "figure_id": "Fig_ovp_cdl_allcampaign",
+    "figure_path": "Figures_SI/Fig_ovp_cdl_allcampaign",
+    "script_id": "Fig_ovp_cdl_allcampaign",
+    "script_path": "Scripts/MATLAB/Fig_ovp_cdl_allcampaign/make_plot.m",
+    "data_keys": [
+      "All_Ovp_Cdl"
+    ],
+    "data_path": [
+      "Data/Merged_ovp_cdl_full.csv"
+    ],
+    "figure_type": "SI"
+  },
+  "FigureS10": [
+    {
+      "figure_id": "Fig_landscape_trajectory",
+      "figure_path": "Figures_Main/Fig_landscape_trajectory",
+      "script_id": "Fig_landscape_trajectory",
+      "script_path": "Scripts/MATLAB/Fig_lanscape_trajectory/make_plot.m",
+      "data_keys": [
+        "result_all_campaign"
+      ],
+      "data_path": [
+        "Data/result_all_campaign.csv"
+      ],
+      "figure_type": "Main"
+    },
+    {
+      "figure_id": "Fig_LSV_trajectory",
+      "figure_path": "Figures_Main/Fig_LSV_trajectory",
+      "script_id": "Fig_LSV_trajectory",
+      "script_path": "Scripts/Python/Fig_LSV_trajectory/make_plot.py",
+      "data_keys": "All data",
+      "data_path": "Data/All data",
+      "figure_type": "Main"
+    }
+  ],
+  "FigureS11": [
+    {
+      "figure_id": "Fig_landscape_pretrain",
+      "figure_path": "Figures_Main/Fig_landscape_pretrain",
+      "script_id": "Fig_landscape_pretrain",
+      "script_path": "Scripts/MATLAB/Fig_landscape_pretrain/make_plot.m",
+      "data_keys": [
+        "result_all_campaign"
+      ],
+      "data_path": [
+        "Data/result_all_campaign.csv"
+      ],
+      "figure_type": "Main"
+    },
+    {
+      "figure_id": "Fig_landscape_ecsa",
+      "figure_path": "Figures_SI/Fig_landscape_ecsa",
+      "script_id": "Fig_landscape_ecsa",
+      "script_path": "Scripts/MATLAB/Fig_landscape_ecsa/make_plot.m",
+      "data_keys": [
+        "All_Ovp_Cdl_Tafel"
+      ],
+      "data_path": [
+        "Data/merged_all.csv"
+      ],
+      "figure_type": "SI"
+    },
+    {
+      "figure_id": "Fig_landscape_tafelslope",
+      "figure_path": "Figures_SI/Fig_landscape_tafelslope",
+      "script_id": "Fig_landscape_tafelslope",
+      "script_path": "Scripts/MATLAB/Fig_landscape_tafelslope/make_plot.m",
+      "data_keys": [
+        "All_Ovp_Cdl_Tafel"
+      ],
+      "data_path": [
+        "Data/merged_all.csv"
+      ],
+      "figure_type": "SI"
+    },
+    {
+      "figure_id": "Fig_landscape_exchangec",
+      "figure_path": "Figures_SI/Fig_landscape_exchangec",
+      "script_id": "Fig_landscape_exchangec",
+      "script_path": "Scripts/MATLAB/Fig_landscape_exchangec/make_plot.m",
+      "data_keys": [
+        "All_Ovp_Cdl_Tafel"
+      ],
+      "data_path": [
+        "Data/merged_all.csv"
+      ],
+      "figure_type": "SI"
+    }
+  ],
+  "FigureS12": {
+    "figure_id": "Fig_proxy_campaigns",
+    "figure_path": "Figures_SI/Fig_proxy_campaigns",
+    "script_id": "Fig_proxy_campaigns",
+    "script_path": "Scripts/Python/Fig_proxy_campaigns/make_plot.py",
+    "data_keys": "All_Ovp_Cdl_Tafel",
+    "data_path": "Data/merged_all.csv",
+    "figure_type": "SI"
+  },
+  "FigureS13": {
+    "figure_id": "Fig_ovp_i0_best_so_far",
+    "figure_path": "Figures_SI/Fig_ovp_i0_best_so_far",
+    "script_id": "Fig_ovp_i0_best_so_far",
+    "script_path": "Scripts/Python/Fig_ovp_i0_best_so_far/make_plot.py",
+    "data_keys": "All_Ovp_Cdl_Tafel",
+    "data_path": "Data/merged_all.csv",
+    "figure_type": "SI"
+  },
+  "FigureS40": {
+    "figure_id": "Fig_eigen_full_campaigns",
+    "figure_path": "Figures_SI/Fig_eigen_full_campaigns",
+    "script_id": "Fig_eigen_full_campaigns",
+    "script_path": "Scripts/Python/Fig_eigen_analysis/make_plot.py",
+    "data_keys": [
+      "Campaign1",
+      "Campaign2",
+      "Campaign3",
+      "Campaign4"
+    ],
+    "data_path": [
+      "Data/Campaign1.csv",
+      "Data/Campaign2.csv",
+      "Data/Campaign3.csv",
+      "Data/Campaign4.csv"
+    ],
+    "figure_type": "SI"
+  },
+  "FigureS42": {
+    "figure_id": "Fig_hessian_full_campaign1",
+    "figure_path": "Figures_SI/Fig_hessian_full_campaign1",
+    "script_id": "Fig_hessian_full_campaign1",
+    "script_path": "Scripts/Python/Fig_hessian_full_campaign1/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "SI"
+  },
+  "FigureS43": {
+    "figure_id": "Fig_hessian_full_campaign2",
+    "figure_path": "Figures_SI/Fig_hessian_full_Campaign2",
+    "script_id": "Fig_hessian_full_campaign2",
+    "script_path": "Scripts/Python/Fig_hessian_full_campaign2/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "SI"
+  },
+  "FigureS44": {
+    "figure_id": "Fig_hessian_full_campaign3",
+    "figure_path": "Figures_SI/Fig_hessian_full_campaign3",
+    "script_id": "Fig_hessian_full_campaign3",
+    "script_path": "Scripts/Python/Fig_hessian_full_campaign3/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "SI"
+  },
+  "FigureS45": {
+    "figure_id": "Fig_hessian_full_campaign4",
+    "figure_path": "Figures_SI/Fig_hessian_full_Campaign4",
+    "script_id": "Fig_hessian_full_campaign4",
+    "script_path": "Scripts/Python/Fig_hessian_full_campaign4/make_plot.py",
+    "data_keys": "In folder",
+    "data_path": "In folder",
+    "figure_type": "SI"
+  }
+}

@@ -1,0 +1,38 @@
+
+
+{
+    "_comment": "Below are main figures",
+
+    "Figure1b":"Fig_landscape_bandit",
+    "Figure2d":"Fig_LSV_pretrain", 
+    "Figure2e":"Fig_surface_redox",
+    "Figure2f":"Fig_ECSA",  
+    "Figure2g":"Fig_Tafel", 
+    "Figure2h":"Fig_landscape_pretrain",
+    "Figure3b":"Fig_model_comp",
+    "Figure3c":"Fig_ovp_cdl_pretrain",
+    "Figure3d-g":"Fig_landscape_trajectory",
+    "Figure3h":"Fig_Ovp_trajectory",
+    "Figure3j":"Fig_alg_efficiency", 
+    "Figure3k":["Fig_EDAX Radar plot_noO", "Fig_Recipe Radar plot"],
+    "Figure4b":"Fig_hessian_present_campaign1",
+    "Figure4c":"Fig_hessian_present_campaign3",
+    "Figure4d":"Fig_interaction_rank_campaign1",
+    "Figure4e":"Fig_interaction_rank_campaign3",
+    "Figure4f":"Fig_volcano_rebuild_campaign1",
+    "Figure4g":"Fig_volcano_rebuild_campaign3",
+    
+    "_comment2": "Below are SI figures",
+
+    "FigureS9":"Fig_ovp_cdl_allcampaign", 
+    "FigureS10":["Fig_landscape_trajectory","Fig_LSV_trajectory"],
+    "FigureS11":["Fig_landscape_pretrain", "Fig_landscape_ecsa", "Fig_landscape_tafelslope", "Fig_landscape_exchangec"],
+    "FigureS12":"Fig_proxy_campaigns",
+    "FigureS13":"Fig_ovp_i0_best_so_far",
+    "FigureS40":"Fig_eigen_full_campaigns",
+    "FigureS42":"Fig_hessian_full_campaign1",
+    "FigureS43":"Fig_hessian_full_campaign2",
+    "FigureS44":"Fig_hessian_full_campaign3",
+    "FigureS45":"Fig_hessian_full_campaign4"
+
+}

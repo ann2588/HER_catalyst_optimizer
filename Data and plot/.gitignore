@@ -1,0 +1,20 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+._*
+
+# Editor and local machine settings
+.vscode/
+.idea/
+
+# Local snapshots not used by the reproducible registry
+Archive/
+
+# Runtime and plotting caches
+.matplotlib/
+.cache/

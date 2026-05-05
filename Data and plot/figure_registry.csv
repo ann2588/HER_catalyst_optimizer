@@ -1,0 +1,34 @@
+Figure,Figure path,script path,data path
+Figure1b,Figures_Main/Fig_landscape_bandit,Scripts/MATLAB/Fig_landscape_bandit/make_plot.m,Data/bandit_global.csv; Data/bandit_local.csv
+Figure2d,Figures_Main/Fig_LSV_pretrain,Scripts/Python/Fig_LSV_pretrain/make_plot.py,Data/All data
+Figure2e,Figures_Main/Fig_surface_redox,Scripts/Python/Fig_surface_redox/make_plot.py,Data/All data
+Figure2f,Figures_Main/Fig_ECSA,Scripts/Python/ECSA_Processing/make_plot.py,Data/All data; Data/result_all_campaign.csv; Data/Pseudo_Capacitance_fw_full.csv
+Figure2g,Figures_Main/Fig_Tafel,Scripts/Python/Tafel_Processing/make_plot.py,Data/All data
+Figure2h,Figures_Main/Fig_landscape_pretrain,Scripts/MATLAB/Fig_landscape_pretrain/make_plot.m,Data/result_all_campaign.csv
+Figure3b,Figures_Main/Fig_model_comp,Scripts/Python/Fig_model_comp/make_plot.py,Data/result_pretrain.csv
+Figure3c,Figures_Main/Fig_ovp_cdl_pretrained,Scripts/MATLAB/Fig_ovp_cdl_pretrain/make_plot.m,Data/Merged_ovp_cdl_pretrain.csv
+Figure3d-g,Figures_Main/Fig_landscape_trajectory,Scripts/MATLAB/Fig_lanscape_trajectory/make_plot.m,Data/result_all_campaign.csv
+Figure3h,Figures_Main/Fig_Ovp_trajectory,Scripts/Python/Fig_Ovp_trajectory/make_plot.py,Data/Merged_ovp_cdl_full.csv
+Figure3j,Figures_Main/Fig_alg_efficiency,Scripts/Python/Fig_alg_efficiency/make_plot.py,Data/Campaign1.csv; Data/Campaign2.csv; Data/Campaign3.csv; Data/Campaign4.csv; Data/result_pretrain.csv
+Figure3k,Figures_Main/Fig_EDAX Radar plot_noO,Scripts/Python/Fig_Radar_EDAX/make_plot.py,In script
+Figure3k,Figures_Main/Fig_Recipe Radar plot,Scripts/Python/Fig_Radar_recipe/make_plot.py,Data/result_forRadar.csv
+Figure4b,Figures_Main/Fig_hessian_present_campaign1,Scripts/Python/Fig_hessian_present_campaign1/make_plot.py,In folder
+Figure4c,Figures_Main/Fig_hessian_present_campaign3,Scripts/Python/Fig_hessian_present_campaign3/make_plot.py,In folder
+Figure4d,Figures_Main/Fig_interaction_rank_campaign1,Scripts/Python/Fig_interaction_rank_campaign1/make_plot.py,In folder
+Figure4e,Figures_Main/Fig_interaction_rank_campaign3,Scripts/Python/Fig_interaction_rank_campaign3/make_plot.py,In folder
+Figure4f,Figures_Main/Fig_volcano_rebuild_campaign1,Scripts/Python/Fig_volcano_rebuild_campaign1/make_plot.py,Data/Campaign1.csv
+Figure4g,Figures_Main/Fig_volcano_rebuild_campaign3,Scripts/Python/Fig_volcano_rebuild_campaign3/make_plot.py,Data/Campaign3.csv
+FigureS9,Figures_SI/Fig_ovp_cdl_allcampaign,Scripts/MATLAB/Fig_ovp_cdl_allcampaign/make_plot.m,Data/Merged_ovp_cdl_full.csv
+FigureS10,Figures_Main/Fig_landscape_trajectory,Scripts/MATLAB/Fig_lanscape_trajectory/make_plot.m,Data/result_all_campaign.csv
+FigureS10,Figures_Main/Fig_LSV_trajectory,Scripts/Python/Fig_LSV_trajectory/make_plot.py,Data/All data
+FigureS11,Figures_Main/Fig_landscape_pretrain,Scripts/MATLAB/Fig_landscape_pretrain/make_plot.m,Data/result_all_campaign.csv
+FigureS11,Figures_SI/Fig_landscape_ecsa,Scripts/MATLAB/Fig_landscape_ecsa/make_plot.m,Data/merged_all.csv
+FigureS11,Figures_SI/Fig_landscape_tafelslope,Scripts/MATLAB/Fig_landscape_tafelslope/make_plot.m,Data/merged_all.csv
+FigureS11,Figures_SI/Fig_landscape_exchangec,Scripts/MATLAB/Fig_landscape_exchangec/make_plot.m,Data/merged_all.csv
+FigureS12,Figures_SI/Fig_proxy_campaigns,Scripts/Python/Fig_proxy_campaigns/make_plot.py,Data/merged_all.csv
+FigureS13,Figures_SI/Fig_ovp_i0_best_so_far,Scripts/Python/Fig_ovp_i0_best_so_far/make_plot.py,Data/merged_all.csv
+FigureS40,Figures_SI/Fig_eigen_full_campaigns,Scripts/Python/Fig_eigen_analysis/make_plot.py,Data/Campaign1.csv; Data/Campaign2.csv; Data/Campaign3.csv; Data/Campaign4.csv
+FigureS42,Figures_SI/Fig_hessian_full_campaign1,Scripts/Python/Fig_hessian_full_campaign1/make_plot.py,In folder
+FigureS43,Figures_SI/Fig_hessian_full_Campaign2,Scripts/Python/Fig_hessian_full_campaign2/make_plot.py,In folder
+FigureS44,Figures_SI/Fig_hessian_full_campaign3,Scripts/Python/Fig_hessian_full_campaign3/make_plot.py,In folder
+FigureS45,Figures_SI/Fig_hessian_full_Campaign4,Scripts/Python/Fig_hessian_full_campaign4/make_plot.py,In folder

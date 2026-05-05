@@ -1,0 +1,21 @@
+Apr. 23, 2025   22:39:03
+A.C. Impedance
+File: c:/users/guazh/data/banditlqround7_x0exp590_r20/2025-04-16-exp1170\exp1170-2025-04-23t22_37_34-h2koh\eis_2025-04-23t22_38_44.bin
+Data Source:  Experiment
+Instrument Model:  CHI760E
+Header: EIS for Ru
+Note: 
+
+Init E (V) = -0.667
+High Frequency (Hz) = 1e+6
+Low Frequency (Hz) = 5e+5
+Imp SF
+Amplitude (V) = 0.005
+Quiet Time (sec) = 2
+
+Freq/Hz, Z'/ohm, Z"/ohm, Z/ohm, Phase/deg
+
+9.990e+5, 1.441e+0, -1.052e-1, 1.445e+0, -4.2
+8.252e+5, 2.020e+0, 8.586e-2, 2.022e+0, 2.4
+6.816e+5, 1.832e+0, -2.825e-1, 1.854e+0, -8.8
+5.625e+5, 1.100e+0, -3.196e-1, 1.146e+0, -16.2

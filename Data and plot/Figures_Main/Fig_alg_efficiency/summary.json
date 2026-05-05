@@ -1,0 +1,10 @@
+{
+  "matched_budget": 112,
+  "campaign1_final_best": -0.1587,
+  "campaign2_final_best": -0.1587,
+  "campaign3_final_best": -0.2367,
+  "campaign4_final_best": -0.1587,
+  "dragonfly_final_mean_best": -0.3426320000000001,
+  "dragonfly_final_std_best": 0.012293709683320619,
+  "n_bo_runs": 10
+}

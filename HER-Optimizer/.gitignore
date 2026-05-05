@@ -1,0 +1,52 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local package state
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+build/
+dist/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local environment/configuration
+.env
+.env.*
+!.env.example
+
+# Generated experiment data and analysis outputs
+data/
+outputs/
+Results/
+Utilities/Results/
+Utilities/figures/
+Database/
+*.mcr
+
+# Large/generated media outputs
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+*.pdf
+
+# Keep public example recipe/training CSV files trackable.
+!pretrain.csv
+!batch_pretrain_doe.csv
+

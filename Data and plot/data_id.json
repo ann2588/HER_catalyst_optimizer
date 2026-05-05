@@ -1,0 +1,18 @@
+
+{
+   "EXAMPLE": "/absolute/path/to/Round7/Batch_Demo_result.csv", 
+   "Campaign1":"Data/Campaign1.csv",
+   "Campaign2":"Data/Campaign2.csv",
+   "Campaign3":"Data/Campaign3.csv",
+   "Campaign4":"Data/Campaign4.csv",
+   "All data":"Data/All data", 
+   "result_all_campaign": "Data/result_all_campaign.csv", 
+   "result_pretrain":"Data/result_pretrain.csv",
+   "result_forRadar": "Data/result_forRadar.csv",
+   "Capacitance_all": "Data/Pseudo_Capacitance_fw_full.csv",
+   "All_Ovp_Cdl":"Data/Merged_ovp_cdl_full.csv",
+   "Pretrain_Ovp_Cdl":"Data/Merged_ovp_cdl_pretrain.csv",
+   "bandit_insilico_local":"Data/bandit_local.csv",
+   "bandit_insilico_global":"Data/bandit_global.csv",
+   "All_Ovp_Cdl_Tafel":"Data/merged_all.csv"
+}
