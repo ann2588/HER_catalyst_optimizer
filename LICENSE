@@ -1,0 +1,11 @@
+This repository contains materials covered by different licenses in different
+subtrees.
+
+- `HER-Optimizer/` is licensed under the MIT License. See
+  `HER-Optimizer/LICENSE`.
+- `Data and plot/` is licensed under the Creative Commons Attribution 4.0
+  International License (CC BY 4.0). See `Data and plot/LICENSE`.
+
+Unless otherwise stated in a subtree, file, or directory, use the license notice
+closest to the material you are using.
+
