@@ -29,7 +29,7 @@
     "FigureS11":["Fig_landscape_pretrain", "Fig_landscape_ecsa", "Fig_landscape_tafelslope", "Fig_landscape_exchangec"],
     "FigureS12":"Fig_proxy_campaigns",
     "FigureS13":"Fig_ovp_i0_best_so_far",
-    "FigureS40":"Fig_eigen_full_campaigns",
+    "FigureS41":"Fig_eigen_full_campaigns",
     "FigureS42":"Fig_hessian_full_campaign1",
     "FigureS43":"Fig_hessian_full_campaign2",
     "FigureS44":"Fig_hessian_full_campaign3",

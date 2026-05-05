@@ -323,7 +323,7 @@
     "data_path": "Data/merged_all.csv",
     "figure_type": "SI"
   },
-  "FigureS40": {
+  "FigureS41": {
     "figure_id": "Fig_eigen_full_campaigns",
     "figure_path": "Figures_SI/Fig_eigen_full_campaigns",
     "script_id": "Fig_eigen_full_campaigns",

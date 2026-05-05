@@ -27,7 +27,7 @@ FigureS11,Figures_SI/Fig_landscape_tafelslope,Scripts/MATLAB/Fig_landscape_tafel
 FigureS11,Figures_SI/Fig_landscape_exchangec,Scripts/MATLAB/Fig_landscape_exchangec/make_plot.m,Data/merged_all.csv
 FigureS12,Figures_SI/Fig_proxy_campaigns,Scripts/Python/Fig_proxy_campaigns/make_plot.py,Data/merged_all.csv
 FigureS13,Figures_SI/Fig_ovp_i0_best_so_far,Scripts/Python/Fig_ovp_i0_best_so_far/make_plot.py,Data/merged_all.csv
-FigureS40,Figures_SI/Fig_eigen_full_campaigns,Scripts/Python/Fig_eigen_analysis/make_plot.py,Data/Campaign1.csv; Data/Campaign2.csv; Data/Campaign3.csv; Data/Campaign4.csv
+FigureS41,Figures_SI/Fig_eigen_full_campaigns,Scripts/Python/Fig_eigen_analysis/make_plot.py,Data/Campaign1.csv; Data/Campaign2.csv; Data/Campaign3.csv; Data/Campaign4.csv
 FigureS42,Figures_SI/Fig_hessian_full_campaign1,Scripts/Python/Fig_hessian_full_campaign1/make_plot.py,In folder
 FigureS43,Figures_SI/Fig_hessian_full_Campaign2,Scripts/Python/Fig_hessian_full_campaign2/make_plot.py,In folder
 FigureS44,Figures_SI/Fig_hessian_full_campaign3,Scripts/Python/Fig_hessian_full_campaign3/make_plot.py,In folder
