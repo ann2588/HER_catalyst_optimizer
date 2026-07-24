@@ -14,7 +14,7 @@ __pycache__/
 
 # Local snapshots not used by the reproducible registry
 Archive/
-
+pending/
 # Runtime and plotting caches
 .matplotlib/
 .cache/

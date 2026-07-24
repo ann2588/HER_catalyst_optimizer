@@ -214,7 +214,81 @@
     "data_path": "Data/Campaign3.csv",
     "figure_type": "Main"
   },
+  "FigureS11": {
+    "figure_id": "Fig_replicate",
+    "figure_path": "Figures_SI/Fig_replicate",
+    "script_id": "Fig_replicate",
+    "script_path": "Scripts/Python/Fig_replicate/make_plot.py",
+    "data_keys": [
+      "Replica_data"
+    ],
+    "data_path": [
+      "Data/Replica data"
+    ],
+    "figure_type": "SI"
+  },
   "FigureS9": {
+    "figure_id": "Fig_h2_Ar_comp",
+    "figure_path": "Figures_SI/Fig_h2_Ar_comp",
+    "script_id": "Fig_h2_Ar_comp",
+    "script_path": "Scripts/Python/Fig_h2_Ar_comp/make_plot.py",
+    "data_keys": [
+      "result_all_campaign",
+      "All_Ovp_Cdl_Tafel",
+      "HER_Overpotentials_all_campaign_Ar",
+      "Tafel_Analysis_all_campaign_Ar",
+      "Capacitance_all_Ar"
+    ],
+    "data_path": [
+      "Data/result_all_campaign.csv",
+      "Data/merged_all.csv",
+      "Data/HER_Overpotentials_all_campaign_Ar.csv",
+      "Data/Tafel_Analysis_all_campaign_Ar.csv",
+      "Data/Pseudo_Capacitance_fw_full_Ar.csv"
+    ],
+    "figure_type": "SI"
+  },
+  "FigureS10": {
+    "figure_id": "Fig_alg_uncertainty_sens",
+    "figure_path": "Figures_SI/Fig_alg_uncertainty_sens",
+    "script_id": "Fig_alg_uncertainty_sens",
+    "script_path": "Scripts/Python/Fig_alg_uncertainty_sens/make_plot.py",
+    "data_keys": [
+      "result_pretrain",
+      "Campaign1",
+      "Campaign2",
+      "Campaign3",
+      "Campaign4"
+    ],
+    "data_path": [
+      "Data/result_pretrain.csv",
+      "Data/Campaign1.csv",
+      "Data/Campaign2.csv",
+      "Data/Campaign3.csv",
+      "Data/Campaign4.csv"
+    ],
+    "figure_type": "SI"
+  },
+  "FigureS8": {
+    "figure_id": "Fig_ovp_H2_Ar",
+    "figure_path": "Figures_SI/Fig_ovp_H2_Ar",
+    "script_id": "Fig_ovp_H2_Ar",
+    "script_path": "Scripts/Python/Fig_ovp_H2_Ar/make_plot.py",
+    "data_keys": [
+      "All data",
+      "result_all_campaign",
+      "result_pretrain",
+      "All_Ovp_Cdl"
+    ],
+    "data_path": [
+      "Data/All data",
+      "Data/result_all_campaign.csv",
+      "Data/result_pretrain.csv",
+      "Data/Merged_ovp_cdl_full.csv"
+    ],
+    "figure_type": "SI"
+  },
+  "FigureS13": {
     "figure_id": "Fig_ovp_cdl_allcampaign",
     "figure_path": "Figures_SI/Fig_ovp_cdl_allcampaign",
     "script_id": "Fig_ovp_cdl_allcampaign",
@@ -227,7 +301,7 @@
     ],
     "figure_type": "SI"
   },
-  "FigureS10": [
+  "FigureS14": [
     {
       "figure_id": "Fig_landscape_trajectory",
       "figure_path": "Figures_Main/Fig_landscape_trajectory",
@@ -251,7 +325,7 @@
       "figure_type": "Main"
     }
   ],
-  "FigureS11": [
+  "FigureS15": [
     {
       "figure_id": "Fig_landscape_pretrain",
       "figure_path": "Figures_Main/Fig_landscape_pretrain",
@@ -305,7 +379,7 @@
       "figure_type": "SI"
     }
   ],
-  "FigureS12": {
+  "FigureS16": {
     "figure_id": "Fig_proxy_campaigns",
     "figure_path": "Figures_SI/Fig_proxy_campaigns",
     "script_id": "Fig_proxy_campaigns",
@@ -314,7 +388,7 @@
     "data_path": "Data/merged_all.csv",
     "figure_type": "SI"
   },
-  "FigureS13": {
+  "FigureS17": {
     "figure_id": "Fig_ovp_i0_best_so_far",
     "figure_path": "Figures_SI/Fig_ovp_i0_best_so_far",
     "script_id": "Fig_ovp_i0_best_so_far",
@@ -323,7 +397,7 @@
     "data_path": "Data/merged_all.csv",
     "figure_type": "SI"
   },
-  "FigureS41": {
+  "FigureS45": {
     "figure_id": "Fig_eigen_full_campaigns",
     "figure_path": "Figures_SI/Fig_eigen_full_campaigns",
     "script_id": "Fig_eigen_full_campaigns",
@@ -342,7 +416,7 @@
     ],
     "figure_type": "SI"
   },
-  "FigureS42": {
+  "FigureS46": {
     "figure_id": "Fig_hessian_full_campaign1",
     "figure_path": "Figures_SI/Fig_hessian_full_campaign1",
     "script_id": "Fig_hessian_full_campaign1",
@@ -351,7 +425,7 @@
     "data_path": "In folder",
     "figure_type": "SI"
   },
-  "FigureS43": {
+  "FigureS47": {
     "figure_id": "Fig_hessian_full_campaign2",
     "figure_path": "Figures_SI/Fig_hessian_full_Campaign2",
     "script_id": "Fig_hessian_full_campaign2",
@@ -360,7 +434,7 @@
     "data_path": "In folder",
     "figure_type": "SI"
   },
-  "FigureS44": {
+  "FigureS48": {
     "figure_id": "Fig_hessian_full_campaign3",
     "figure_path": "Figures_SI/Fig_hessian_full_campaign3",
     "script_id": "Fig_hessian_full_campaign3",
@@ -369,7 +443,7 @@
     "data_path": "In folder",
     "figure_type": "SI"
   },
-  "FigureS45": {
+  "FigureS49": {
     "figure_id": "Fig_hessian_full_campaign4",
     "figure_path": "Figures_SI/Fig_hessian_full_Campaign4",
     "script_id": "Fig_hessian_full_campaign4",
