@@ -1,6 +1,6 @@
 # Chemistry-Infused Bandit Framework for Electrocatalysis
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.21136847-blue)](https://doi.org/10.5281/zenodo.21136847)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.21522404-blue)](https://doi.org/10.5281/zenodo.21522404)
 
 This repository contains code, data, and plotting assets for the work "Chemistry-infused bandit framework for interpretable autonomous campaign of electrocatalysis" (DOI pending).
 
